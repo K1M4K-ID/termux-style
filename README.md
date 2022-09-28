@@ -2,7 +2,7 @@
 
 # command
 ```
-cd ~/.termux; wget https://raw.githubusercontent.com/efxtv/Kali-LInux-Terminal-In-Termux/main/colors.properties 
+cd ~/.termux; wget https://raw.githubusercontent.com/K1M4K-ID/termux-style/main/colors.properties 
 ```
 
 # prompt
